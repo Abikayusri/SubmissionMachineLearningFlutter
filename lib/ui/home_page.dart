@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:submission/controller/home_controller.dart';
+import 'package:submission/controller/navigation_controller.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({super.key});
@@ -46,7 +46,7 @@ class _HomeBody extends StatelessWidget {
         ),
         FilledButton.tonal(
           onPressed: () {
-            context.read<HomeController>().goToResultPage(context);
+            context.read<NavigationController>().goToResultPage(context);
           },
           child: const Text("Analyze"),
         ),

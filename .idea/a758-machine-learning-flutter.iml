@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CIDR_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/02-fundamen-cerdas/01-bounding-box/01-starter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/02-fundamen-cerdas/01-bounding-box/01-starter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/02-fundamen-cerdas/01-bounding-box/01-starter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/02-fundamen-cerdas/01-bounding-box/02-final/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/02-fundamen-cerdas/01-bounding-box/02-final/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/02-fundamen-cerdas/01-bounding-box/02-final/build" />
+      <excludeFolder url="file://$MODULE_DIR$/02-fundamen-cerdas/02-image-classification-online/01-starter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/02-fundamen-cerdas/02-image-classification-online/01-starter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/02-fundamen-cerdas/02-image-classification-online/01-starter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/02-fundamen-cerdas/02-image-classification-online/02-final/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/02-fundamen-cerdas/02-image-classification-online/02-final/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/02-fundamen-cerdas/02-image-classification-online/02-final/build" />
+      <excludeFolder url="file://$MODULE_DIR$/03-ml-kit/01-text-recognition/01-starter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/03-ml-kit/01-text-recognition/01-starter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/03-ml-kit/01-text-recognition/01-starter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/03-ml-kit/01-text-recognition/02-final/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/03-ml-kit/01-text-recognition/02-final/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/03-ml-kit/01-text-recognition/02-final/build" />
+      <excludeFolder url="file://$MODULE_DIR$/03-ml-kit/02-face-detection/01-starter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/03-ml-kit/02-face-detection/01-starter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/03-ml-kit/02-face-detection/01-starter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/03-ml-kit/02-face-detection/02-final-with-gallery/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/03-ml-kit/02-face-detection/02-final-with-gallery/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/03-ml-kit/02-face-detection/02-final-with-gallery/build" />
+      <excludeFolder url="file://$MODULE_DIR$/03-ml-kit/02-face-detection/02-final/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/03-ml-kit/02-face-detection/02-final/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/03-ml-kit/02-face-detection/02-final/build" />
+      <excludeFolder url="file://$MODULE_DIR$/03-ml-kit/03-entity-extraction/01-starter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/03-ml-kit/03-entity-extraction/01-starter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/03-ml-kit/03-entity-extraction/01-starter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/03-ml-kit/03-entity-extraction/02-final/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/03-ml-kit/03-entity-extraction/02-final/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/03-ml-kit/03-entity-extraction/02-final/build" />
+      <excludeFolder url="file://$MODULE_DIR$/04-litert/01-image-classification-app/01-starter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/04-litert/01-image-classification-app/01-starter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/04-litert/01-image-classification-app/01-starter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/04-litert/01-image-classification-app/02-final/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/04-litert/01-image-classification-app/02-final/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/04-litert/01-image-classification-app/02-final/build" />
+      <excludeFolder url="file://$MODULE_DIR$/04-litert/02-object-detection-app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/04-litert/02-object-detection-app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/04-litert/02-object-detection-app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/04-litert/03-custom-model-app/01-starter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/04-litert/03-custom-model-app/01-starter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/04-litert/03-custom-model-app/01-starter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/04-litert/03-custom-model-app/02-final/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/04-litert/03-custom-model-app/02-final/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/04-litert/03-custom-model-app/02-final/build" />
+      <excludeFolder url="file://$MODULE_DIR$/04-litert/04-firebase-ml-app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/04-litert/04-firebase-ml-app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/04-litert/04-firebase-ml-app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/05-gen-ai/01-chatbot-app/01-starter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/05-gen-ai/01-chatbot-app/01-starter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/05-gen-ai/01-chatbot-app/01-starter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/05-gen-ai/01-chatbot-app/02-final/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/05-gen-ai/01-chatbot-app/02-final/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/05-gen-ai/01-chatbot-app/02-final/build" />
+      <excludeFolder url="file://$MODULE_DIR$/05-gen-ai/02-transcript-app/01-starter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/05-gen-ai/02-transcript-app/01-starter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/05-gen-ai/02-transcript-app/01-starter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/05-gen-ai/02-transcript-app/02-final/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/05-gen-ai/02-transcript-app/02-final/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/05-gen-ai/02-transcript-app/02-final/build" />
+      <excludeFolder url="file://$MODULE_DIR$/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
